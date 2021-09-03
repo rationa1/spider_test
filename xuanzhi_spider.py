@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# @Time : 2021/8/27 17:28
+# @Author : rational
+# @File : xuanzhi_spider.py
+
 from collections import ChainMap
 
 import requests
